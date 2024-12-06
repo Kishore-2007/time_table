@@ -1,5 +1,5 @@
 # Ex03 Time Table
-# Date:02/12/2024
+# Date:21/10/2024
 # AIM
 To write a html webpage page to display your slot timetable.
 
@@ -11,7 +11,7 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ## STEP 3
-Create a simple table using <table> tag in html.
+Create a simple table using 'table' tag in html.
 
 ## STEP 4
 Add header row using 'th' tag.
@@ -24,7 +24,8 @@ Execute the program using runserver command.
 
 # PROGRAM
 
-```
+```python
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +33,7 @@ Execute the program using runserver command.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TIME TABLE</title>
     <center>
-    <img src="c:\Users\admin\Downloads\logo.png" height="100" width="1000"> </img>
+    <img src="/static/logo.png" height="100" width="1000"> </img>
     
     <h3 style="font-size: x-large;"> SLOT TIME TABLE - KISHORE.S(24900594)</h3>    
     </center>
@@ -150,9 +151,7 @@ Execute the program using runserver command.
 
 ```
 # OUTPUT
-
-
-![Screenshot 2024-12-02 104620](https://github.com/user-attachments/assets/acd0b7c1-b529-434a-a026-58cc81caf107)
+![Screenshot 2024-12-06 221046](https://github.com/user-attachments/assets/67578ca8-6b57-473a-8583-714d6e995344)
 
 
 # RESULT
